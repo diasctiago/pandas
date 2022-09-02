@@ -1,0 +1,51 @@
+id|data|UF|estado|cidade|status|origem
+1001|16/08/2022 13:19|BA|Bahia|Salvador|lead|Facebook
+1002|16/08/2022 11:05|BA|Bahia|Salvador|lead|Facebook
+1003|16/08/2022 10:33|RJ|Rio de Janeiro|Rio de Janeiro|lead|Facebook
+1004|16/08/2022 09:33|BA|Bahia|Salvador|lead|Facebook
+1005|16/08/2022 08:56|SP|São Paulo|São Paulo|lead|Blog
+1006|16/08/2022 08:12|SP|São Paulo|São Paulo|lead|Blog
+1007|16/08/2022 07:14|BA|Bahia|Salvador|lead|Facebook
+1008|15/08/2022 23:27|BA|Bahia|Salvador|lead|Facebook
+1009|15/08/2022 22:04|BA|Bahia|Lauro de Freitas|lead|Facebook
+1010|15/08/2022 21:11|SP|São Paulo|São Paulo|lead|Facebook
+1011|15/08/2022 19:53|BA|Bahia|Camaçari|lead|Facebook
+1012|15/08/2022 17:18|SP|São Paulo|São Paulo|oportunidade|Facebook
+1013|15/08/2022 16:16|SP|São Paulo|São Paulo|lead|Facebook
+1014|15/08/2022 13:44|RJ|Rio de Janeiro|Rio de Janeiro|lead|Facebook
+1015|15/08/2022 13:27|BA|Bahia|Feira de Santana|lead|Google
+1016|15/08/2022 11:41|SP|São Paulo|Campinas|lead|Google
+1017|15/08/2022 10:37|RJ|Rio de Janeiro|Rio de Janeiro|lead|Google
+1018|15/08/2022 10:34|BA|Bahia|Salvador|lead|Google
+1019|15/08/2022 08:59|BA|Bahia|Salvador|lead|Google
+1020|15/08/2022 08:50|BA|Bahia|Salvador|lead|Google
+1021|14/08/2022 22:40|RJ|Rio de Janeiro|Rio de Janeiro|lead|Google
+1022|14/08/2022 21:47|RJ|Rio de Janeiro|Rio de Janeiro|lead|Blog
+1023|14/08/2022 21:46|RJ|Rio de Janeiro|Niterói|oportunidade|Blog
+1024|14/08/2022 21:41|BA|Bahia|Salvador|lead|Google
+1025|14/08/2022 21:10|BA|Bahia|Salvador|lead|Google
+1026|14/08/2022 18:56|SP|São Paulo|São Paulo|oportunidade|Google
+1027|14/08/2022 18:25|RJ|Rio de Janeiro|Niterói|lead|Google
+1028|14/08/2022 18:04|BA|Bahia|Salvador|lead|Google
+1029|14/08/2022 17:36|BA|Bahia|Lauro de Freitas|lead|Google
+1030|14/08/2022 16:47|BA|Bahia|Camaçari|lead|Facebook
+1031|14/08/2022 16:21|BA|Bahia|Feira de Santana|lead|Facebook
+1032|14/08/2022 11:59|RJ|Rio de Janeiro|Rio de Janeiro|lead|Facebook
+1033|14/08/2022 07:10|SP|São Paulo|São Paulo|lead|Facebook
+1034|14/08/2022 04:20|BA|Bahia|Salvador|lead|Google
+1035|14/08/2022 00:50|BA|Bahia|Salvador|lead|Google
+1036|14/08/2022 00:19|BA|Bahia|Salvador|lead|Google
+1037|13/08/2022 22:43|SP|São Paulo|Sorocaba|lead|Google
+1038|13/08/2022 22:23|BA|Bahia|Salvador|lead|Facebook
+1039|13/08/2022 16:43|BA|Bahia|Salvador|lead|Facebook
+1040|13/08/2022 15:22|BA|Bahia|Lauro de Freitas|lead|Facebook
+1041|13/08/2022 14:46|BA|Bahia|Camaçari|lead|Facebook
+1042|13/08/2022 11:02|RJ|Rio de Janeiro|Rio de Janeiro|lead|Google
+1043|13/08/2022 10:32|RJ|Rio de Janeiro|Petrópolis|lead|Google
+1044|13/08/2022 09:28|RJ|Rio de Janeiro|Petrópolis|lead|Google
+1045|13/08/2022 08:08|SP|São Paulo|Campinas|oportunidade|Google
+1046|13/08/2022 01:40|RJ|Rio de Janeiro|Petrópolis|lead|Blog
+1047|13/08/2022 01:19|RJ|Rio de Janeiro|Rio de Janeiro|lead|Blog
+1048|12/08/2022 23:15|BA|Bahia|Feira de Santana|lead|Blog
+1049|12/08/2022 21:50|RJ|Rio de Janeiro|Rio de Janeiro|lead|Blog
+1050|12/08/2022 21:02|BA|Bahia|Salvador|oportunidade|Blog
